@@ -1,0 +1,18 @@
+How to run prolog:
+
+cd('C:/Prolog').
+
+[nqueens].
+n_queens(4, Qs).
+
+
+[dfs].
+solve(a, Solution).
+
+
+[travel].
+route("tampa", "kansas_city", D).
+
+
+[puzzle].
+ids.
